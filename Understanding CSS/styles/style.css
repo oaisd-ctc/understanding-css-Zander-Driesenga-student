@@ -8,6 +8,7 @@ h1 {
 }
 li {
     font-size: 10px;
+    overflow: auto;
 }
 p {
     padding-right: 20px;
