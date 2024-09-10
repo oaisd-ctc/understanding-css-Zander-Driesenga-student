@@ -8,7 +8,9 @@ h1 {
 }
 li {
     font-size: 10px;
-    overflow: auto;
+    overflow: hidden;
+    text-shadow: 100px;
+    box-shadow: 100px;
 }
 p {
     padding-right: 20px;
